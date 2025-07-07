@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Bytebounce";
-    src: url(/style/ByteBounce.ttf);
+    src: url(ByteBounce.ttf);
 }
 /* text properties */
 .linear-text-gradient{background: linear-gradient(to top right, #e8f860, #2fcf21);
